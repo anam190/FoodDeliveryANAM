@@ -66,6 +66,7 @@ struct SignUp: View {
                 TextField("Enter Password", text: $pass)
                     .frame(minWidth: /*@START_MENU_TOKEN@*/0/*@END_MENU_TOKEN@*/,maxWidth: .infinity)
                     .padding(.leading,10)
+                //this is food delivery app nectar
                 
                 Divider()
                     .frame(width: 355)
